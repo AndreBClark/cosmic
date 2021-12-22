@@ -1,5 +1,5 @@
 # COSMIC
-
+this is a fork of pop-cosmic with nord theme
 Computer Operating System Main Interface Components
 
 COSMIC is the name for the main shell components in Pop_Shell (separate from the tiling and window-management components). It makes the following changes to the standard GNOME Shell environment:
