@@ -1,0 +1,15 @@
+{
+  "name": "cosmic-nord",
+  "version": "0.0.0",
+  "scripts": {
+    "dark": "sass ./styles/dark.scss ./dark.css --no-source-map",
+    "light": "sass ./styles/dark.scss ./light.css --no-source-map",
+    "build": "make && make install"
+  },
+  "devDependencies": {
+    "vite": "^2.7.2"
+  },
+  "dependencies": {
+    "sass": "^1.45.1"
+  }
+}
