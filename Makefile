@@ -22,7 +22,7 @@ SRC = applications.js \
       overview.js \
       prefs.js \
       schemas/gschemas.compiled \
-      schemas/org.gnome.shell.extensions.pop-cosmic.gschema.xml \
+      schemas/org.gnome.shell.extensions.pop-cosmic-nord.gschema.xml \
       settings.js \
       stylesheet.css \
       topBarButton.js
