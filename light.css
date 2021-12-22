@@ -1,32 +1,30 @@
-.cosmic-applications-dialog .overview-icon {
-	color: black;
+.cosmic-applications-dialog {
+  background-color: #2e3440;
 }
-
-.app-well-app:focus .overview-icon {
-	background-color: #9b9b9b;
+.cosmic-applications-dialog .app-well-app-running-dot {
+  background-color: #4c566a;
 }
-
-.app-well-app:hover .overview-icon, .app-well-app:selected .overview-icon {
-	background-color: #d0d0d0;
-}
-
 .cosmic-applications-icon {
-	color: #555555;
+  color: #e5e9f0;
 }
-
 .cosmic-applications-folder-title {
-	color: #555555;
+  color: #e5e9f0;
 }
-
 .cosmic-applications-available {
-	color: black;
+  color: #e5e9f0;
 }
-
+.cosmic-applications-search-entry {
+  height: 20px;
+  spacing: 2px;
+}
+.cosmic-applications-search-entry, .cosmic-applications-search-entry > * {
+  color: #e5e9f0 !important;
+  background-color: #4c566a !important;
+  border: none;
+}
 .cosmic-folder-edit-button {
-	color: #555555;
-	background: #f2f1ef;
+  background: #3b4252;
 }
-
 .cosmic-folder-edit-button:hover {
-	background: #f8f8f7;
+  background: #434c5e;
 }

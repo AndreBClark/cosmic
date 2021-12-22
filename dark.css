@@ -1,23 +1,30 @@
 .cosmic-applications-dialog {
-       background-color: #36322f;
+  background-color: #2e3440;
 }
-
+.cosmic-applications-dialog .app-well-app-running-dot {
+  background-color: #4c566a;
+}
 .cosmic-applications-icon {
-       color: #9b9b9b;
+  color: #e5e9f0;
 }
-
 .cosmic-applications-folder-title {
-       color: white;
+  color: #e5e9f0;
 }
-
 .cosmic-applications-available {
-       color: white;
+  color: #e5e9f0;
 }
-
+.cosmic-applications-search-entry {
+  height: 20px;
+  spacing: 2px;
+}
+.cosmic-applications-search-entry, .cosmic-applications-search-entry > * {
+  color: #e5e9f0 !important;
+  background-color: #4c566a !important;
+  border: none;
+}
 .cosmic-folder-edit-button {
-	background: #353535;
+  background: #3b4252;
 }
-
 .cosmic-folder-edit-button:hover {
-	background: #484848;
+  background: #434c5e;
 }
