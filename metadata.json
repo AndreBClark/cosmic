@@ -1,6 +1,6 @@
 {
-  "description": "Computer Operating System Main Interface Components with nord theme",
-  "name": "Pop COSMIC Nord",
+  "description": "Computer Operating System Main Interface Components with support for custom themes",
+  "name": "Pop COSMIC Adaptive",
   "original-authors": "System76",
   "shell-version": [
     "3.38",
@@ -8,7 +8,7 @@
     "41"
   ],
   "url": "https://github.com/pop-os/cosmic",
-  "uuid": "pop-cosmic-nord@cosmicdivision",
-  "settings-schema": "org.gnome.shell.extensions.pop-cosmic-nord",
+  "uuid": "pop-cosmic-adaptive@cosmicdivision.dev",
+  "settings-schema": "org.gnome.shell.extensions.pop-cosmic-adaptive",
   "version": 1
 }
