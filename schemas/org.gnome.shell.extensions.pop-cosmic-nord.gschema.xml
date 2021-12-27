@@ -10,7 +10,7 @@
         <value value='1' nick='LEFT'/>
         <value value='2' nick='RIGHT'/>
     </enum>
-    <schema id="org.gnome.shell.extensions.pop-cosmic-adaptive" path="/org/gnome/shell/extensions/pop-cosmic-adaptive/">
+    <schema id="org.gnome.shell.extensions.pop-cosmic-nord" path="/org/gnome/shell/extensions/pop-cosmic/">
         <key name="overlay-key-action" enum="org.gnome.shell.extensions.pop-cosmic.overview">
           <default>'LAUNCHER'</default>
           <summary>Overlay key action</summary>
