@@ -7,7 +7,7 @@
     "build": "make && make install"
   },
   "devDependencies": {
-    "vite": "^2.7.2"
+    "vite": "^2.9.16"
   },
   "dependencies": {
     "sass": "^1.45.1"
